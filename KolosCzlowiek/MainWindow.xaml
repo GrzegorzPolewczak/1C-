@@ -1,0 +1,17 @@
+﻿<Window x:Class="KolosCzlowiek.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KolosCzlowiek"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Canvas x:Name="cvRysunek" HorizontalAlignment="Left" Height="400" Margin="23,0,0,0" VerticalAlignment="Center" Width="400" Background="White"/>
+        <CheckBox x:Name="ckbGlowa" Content="Głowa" HorizontalAlignment="Left" Margin="521,42,0,0" VerticalAlignment="Top" Height="23" Width="63" Checked="Checked" Unchecked="Checked"/>
+        <CheckBox x:Name="ckbTulow" Content="Tułów" HorizontalAlignment="Left" Margin="655,57,0,0" VerticalAlignment="Top" Checked="Checked" Unchecked="Checked"/>
+        <CheckBox x:Name="ckbRece" Content="Ręce" HorizontalAlignment="Left" Margin="521,80,0,0" VerticalAlignment="Top" Checked="Checked" Unchecked="Checked"/>
+        <CheckBox x:Name="ckbNogi" Content="Nogi" HorizontalAlignment="Left" Margin="606,113,0,0" VerticalAlignment="Top" Checked="Checked" Unchecked="Checked"/>
+
+    </Grid>
+</Window>

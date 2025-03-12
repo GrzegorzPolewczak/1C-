@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grzeg\\Desktop\\1C-\\Zadanie2Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB11A64-4227-4A6D-B43A-48951E7062DE}|Zadanie2Lab1\\Zadanie2Lab1.csproj|c:\\users\\grzeg\\desktop\\1c-\\zadanie2lab1\\zadanie2lab1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB11A64-4227-4A6D-B43A-48951E7062DE}|Zadanie2Lab1\\Zadanie2Lab1.csproj|solutionrelative:zadanie2lab1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\1C-\\Zadanie2Lab1\\Zadanie2Lab1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie2Lab1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\1C-\\Zadanie2Lab1\\Zadanie2Lab1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Zadanie2Lab1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:40:53.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

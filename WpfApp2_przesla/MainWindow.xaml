@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp2_przesla.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2_przesla"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="377" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="219*"/>
+            <ColumnDefinition Width="181*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas x:Name="cvRysunek" HorizontalAlignment="Center" Height="190" Margin="0,94,0,0" VerticalAlignment="Top" Width="190" Background="#FFC9C7C7" Grid.Column="1"/>
+        <Button x:Name="btnRysuj" Content="Rysuj" HorizontalAlignment="Left" Height="62" Margin="89,94,0,0" VerticalAlignment="Top" Width="171" Click="btnRysuj_Click"/>
+        <Button x:Name="btnWyczysc" Content="Wyczyść" HorizontalAlignment="Left" Margin="89,217,0,0" VerticalAlignment="Top" Height="67" Width="171" Click="Button_Click"/>
+
+    </Grid>
+</Window>
